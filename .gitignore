@@ -1,0 +1,7 @@
+# Ignore Keras model files
+*.keras
+*.h5
+
+# Ignore Pytorch model files
+*.pt
+*.pth
