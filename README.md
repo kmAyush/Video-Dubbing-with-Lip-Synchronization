@@ -48,4 +48,12 @@ https://github.com/kmAyush/Video-Dubbing-with-Lip-Synchronization/assets/6610560
 
 
 
+https://github.com/kmAyush/Video-Dubbing-with-Lip-Synchronization/assets/66105604/53a6ed35-c678-4643-96cf-ba187746a597
+
+
+
+https://github.com/kmAyush/Video-Dubbing-with-Lip-Synchronization/assets/66105604/95a93f51-44b2-4d03-a1f4-a924ab768fa2
+
+
+
 
