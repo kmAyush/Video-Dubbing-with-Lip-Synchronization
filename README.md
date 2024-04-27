@@ -36,3 +36,16 @@ In today's diverse global landscape, accessing entertainment content across diff
 ## References 📚
 
 The references for the various models and techniques used in this project can be found in the [poster](poster.pdf).
+
+##Outputs
+
+https://github.com/kmAyush/Video-Dubbing-with-Lip-Synchronization/assets/66105604/9fef6177-606c-41fb-8ab4-63fc7e7a90a3
+
+
+
+https://github.com/kmAyush/Video-Dubbing-with-Lip-Synchronization/assets/66105604/275425e0-84f8-4826-a10e-f17287d7b191
+
+
+
+
+
