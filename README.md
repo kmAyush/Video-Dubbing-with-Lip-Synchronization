@@ -39,7 +39,6 @@ The references for the various models and techniques used in this project can be
 
 ## Outputs 
 
-https://github.com/kmAyush/Video-Dubbing-with-Lip-Synchronization/assets/66105604/9fef6177-606c-41fb-8ab4-63fc7e7a90a3
 
 
 
